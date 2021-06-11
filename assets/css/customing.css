@@ -1,0 +1,17 @@
+table.amenities_management {
+	
+	width: auto;
+	margin: 0 auto;	
+	border-collapse: collapse;	
+	border: solid 1px black;
+}
+
+table.amenities_management th {
+	width: 33%;
+	background: #333333;
+	color: white;	
+}
+table.amenities_management tbody  td {
+	border: solid 1px black;
+	padding: 1em;	
+}

@@ -1,0 +1,13 @@
+#external-events {
+    border: 1px solid #ccc;
+    background: #eee;
+    padding: 0 10px;
+}
+#external-events .fc-event {
+    cursor: move;
+    margin: 3px 0;
+}
+#calendar {
+    max-width: 1100px;
+    margin: 20px auto;
+}
